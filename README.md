@@ -1,8 +1,6 @@
 # Next.js + Sanity + Vercel - Ecommerce Website
 
-# https://next-js-ecommerce-git-main-magule.vercel.app/  
-
-(will improve soon)
+# https://e-commerce-next-js-beta.vercel.app/
 
 # 1. Website
 
