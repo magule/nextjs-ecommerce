@@ -24,21 +24,21 @@ const Cart = () => {
         className="cart-heading"
         onClick={() => setShowCart(false)}>
           <AiOutlineLeft />
-          <span className="heading">Sepetiniz</span>
-          <span className="cart-num-items">({totalQuantities} ürün)</span>
+          <span className="heading">Items</span>
+          <span className="cart-num-items">({totalQuantities} item)</span>
         </button>
 
         {cartItems.length < 1 && (
           <div className="empty-cart">
             <AiOutlineShopping size={150} />
-            <h3>Sepetiniz boş</h3>
+            <h3>Empty</h3>
             <Link href="/">
               <button
                 type="button"
                 onClick={() => setShowCart(false)}
                 className="btn"
               >
-                Alışverişe Devam..
+                Continue shopping..
               </button>
             </Link>
           </div>
@@ -78,12 +78,12 @@ const Cart = () => {
         {cartItems.length >= 1 && (
           <div className="cart-bottom">
             <div className="total">
-              <h3>Toplam:</h3>
-              <h3>{totalPrice} TL</h3>
+              <h3>Total:</h3>
+              <h3>{totalPrice} USD</h3>
             </div>
             <div className="btn-container">
               <button type="button" className="btn" onClick={handleCheckout}>
-                Ödemeye geç
+                Go to payment
               </button>
             </div>
           </div>

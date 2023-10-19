@@ -15,19 +15,19 @@ const Navbar = () => {
         <div className="navbar-container">
             <ul className="navv">
                     <li>
-                        <Link href="/"> Anasayfa</Link>
+                        <Link href="/"> Home</Link>
                     </li>
 
                     <li>
-                    <Link href="/products"> Urunler</Link>
+                    <Link href="/products"> Products</Link>
                     </li>
 
                     <li>
-                    <Link href="/about"> Hakkımızda</Link>
+                    <Link href="/about"> About Us</Link>
                     </li>
 
                     <li>
-                    <Link href="/contact"> Iletisim</Link>
+                    <Link href="/contact"> Contact</Link>
                     </li>
 
             </ul>
