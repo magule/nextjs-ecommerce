@@ -12,8 +12,7 @@ const about = ({ products, bannerData }) => {
       <p className="smallText">
         Nemo Point, Pasific Ocean, 48°52.6′ S ve 123°23.6′ W
       </p>
-      <p className="smallText">furkankalaycioglu@gmail.com</p>
-      <p className="smallText">0532 558 1834 </p>
+
     </div>
   );
 };
