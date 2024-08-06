@@ -6,7 +6,7 @@
 <img width="1440" alt="pin2" src="https://user-images.githubusercontent.com/47292808/227545915-861e69c4-ebd8-489f-8a86-47abdef3edb3.png">
 
 <img width="1440" alt="Ekran Resmi 2023-03-21 00 19 16" src="https://user-images.githubusercontent.com/47292808/226472439-0e76d354-6796-4dd4-9a29-296c5bc5fab6.png">
-<img width="1440" alt="Ekran Resmi 2023-03-21 00 19 55" src="https://user-images.githubusercontent.com/47292808/226472447-4f83b07e-ada6-48c7-9c99-219e7e411e2a.png">
+
 <img width="1440" alt="Ekran Resmi 2023-03-24 17 13 35" src="https://user-images.githubusercontent.com/47292808/227546480-ca2b9df1-1637-4fd4-ae55-4728c68013b6.png">
 <img width="1440" alt="Ekran Resmi 2023-03-24 17 14 35" src="https://user-images.githubusercontent.com/47292808/227546967-077a175f-fda9-491f-963f-a0d9323414bd.png">
 
