@@ -13,7 +13,7 @@
 
 
 <img width="1440" alt="Ekran Resmi 2023-03-21 00 20 49" src="https://user-images.githubusercontent.com/47292808/226472452-ccdbcb01-6b64-4af8-aea0-072d46c64fa3.png">
-<img width="1440" alt="Ekran Resmi 2023-03-21 00 43 17" src="https://user-images.githubusercontent.com/47292808/226472471-6f61846a-d2d5-4d9b-8253-aee61d7b7c5d.png">
+
 
 
 # 2. Sanity Admin Panel
